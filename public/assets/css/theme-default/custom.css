@@ -1,0 +1,13 @@
+.categoryThumbnail {
+    width: 200px;
+    height: 200px;
+}
+.sliderThumbnail {
+    width: 200px;
+    height: 200px;
+}
+#imageList {
+    max-height: 450px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
